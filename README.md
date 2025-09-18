@@ -18,7 +18,7 @@ The app provides a clean UI and supports basic arithmetic operations with a mode
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/PrajjwalWorks/Android-Calculator-App/1a35a62b919400306bb298ef1e1c1999da77ab3c/screenshot.png" alt="App Screenshot" width="400"/>
+<img src="https://raw.githubusercontent.com/PrajjwalWorks/Android-Calculator-App/1a35a62b919400306bb298ef1e1c1999da77ab3c/screenshot.png" alt="App Screenshot" width="300"/>
 
 
 ## Tech Stack
